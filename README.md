@@ -50,3 +50,11 @@
   
   
 </div>
+
+##
+<div>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Igor-c17&locale='pt-br'&bg_color=141321&color=d83a7c&line=d83a7c&point=dbbf42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+</div>
