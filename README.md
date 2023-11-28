@@ -1,22 +1,16 @@
 ### Olá! Eu sou o Igor Carvalho
 ##
 
+<ul>
+  <li>Graduando em Ciências da Computação.</li>
+  <li>Foco em desenvolvimento FullStack.</li>
+  <li>Ciclista nas horas vagas.</li>
+</ul>
+<p>Sou um graduando em Ciências da Computação. Atualmente, estou focado no desenvolvimento FullStack, buscando aperfeiçoar e aprimorar todas as minhas habilidades constantemente.</p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Igor-c17&show_icons=true&theme=radical&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Igor-c17&show_icons=true&locale=pt-br"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    locale=pt-br
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=226 width='400' align="center-top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igor-c17&layout=compact&locale=pt-br&theme=radical&langs_count=8&card_width=100"=/>
-</a
+<h2>Pontos Fortes</h2>
+
+
 <section>
   
 ![icons8-html-48](https://github.com/Igor-c17/Igor-c17/assets/148907606/a95b49c3-e750-4d56-a436-fdf6022facdc)
@@ -41,7 +35,7 @@
 
 </section>
 
-##
+<h2>Contato</h2>
 
 <div> 
   <a href="https://instagram.com/i.guuu_c17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
