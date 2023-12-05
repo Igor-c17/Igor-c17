@@ -12,7 +12,11 @@
 
 
 <section>
-  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-c17&show_icons=true&theme=radical&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-c17&layout=donut&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![icons8-html-48](https://github.com/Igor-c17/Igor-c17/assets/148907606/a95b49c3-e750-4d56-a436-fdf6022facdc)
 ![icons8-git-48 (1)](https://github.com/Igor-c17/Igor-c17/assets/148907606/af254e18-c8c7-4ed7-9fe9-2c6cf96f565f)
 ![icons8-css-48](https://github.com/Igor-c17/Igor-c17/assets/148907606/75f1010f-93dc-4661-9c81-545806aff04c)
