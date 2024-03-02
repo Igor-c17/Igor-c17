@@ -2,7 +2,7 @@
 
 
 <ul>
-  <li>Graduando em Ciências da Computação.</li>
+  <li>Graduando em Ciências da Computação e Análise de Desenvolvimento de Sistemas.</li>
   <li>Foco em desenvolvimento FullStack.</li>
   <li>Ciclista nas horas vagas.</li>
 </ul>
