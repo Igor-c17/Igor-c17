@@ -2,11 +2,11 @@
 
 
 <ul>
-  <li>Graduando em Ciências da Computação e Análise de Desenvolvimento de Sistemas.</li>
+  <li>Graduando em Ciências da Computação.</li>
   <li>Foco em desenvolvimento FullStack.</li>
-  <li>Ciclista nas horas vagas.</li>
+  <li>empreendedor e estou ativo diariamente na programação front-end.</li>
 </ul>
-<p>Sou um graduando em Ciências da Computação. Atualmente, estou focado no desenvolvimento FullStack, buscando aperfeiçoar e aprimorar todas as minhas habilidades constantemente.</p>
+<p>Sou graduando em Ciências da Computação, com foco sólido em desenvolvimento FullStack. Atualmente, atuo como desenvolvedor front-end na loja <a href="https://aimê.online">Aimê</a>, onde aplico e aperfeiçoo diariamente minhas habilidades técnicas e criativas. Estou em constante evolução, sempre buscando excelência em cada linha de código e contribuindo ativamente para projetos com foco em performance, experiência do usuário e resultados reais.</p>
 
 <h2>Pontos Fortes</h2>
 
