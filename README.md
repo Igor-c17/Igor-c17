@@ -7,6 +7,8 @@
   <li>empreendedor e estou ativo diariamente na programação front-end.</li>
 </ul>
 <p>Sou graduando em Ciências da Computação, com foco sólido em desenvolvimento FullStack. Atualmente, atuo como desenvolvedor front-end na loja <a href="https://aimê.online" target="_blank">Aimê</a>, onde aplico e aperfeiçoo diariamente minhas habilidades técnicas e criativas. Estou em constante evolução, sempre buscando excelência em cada linha de código e contribuindo ativamente para projetos com foco em performance, experiência do usuário e resultados reais.</p>
+<br><br>
+<p>Você pode acessar meu portfólio através do link: <a href="https://igor-carvalho-portfolio.vercel.app/">Portfólio Igor</a></p>
 
 <h2>Pontos Fortes</h2>
 
