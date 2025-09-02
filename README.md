@@ -2,8 +2,6 @@
 <h1 align="center">👋 Olá, eu sou o Igor Carvalho</h1>
 <h3 align="center">💻 Desenvolvedor FullStack | 🚀 Empreendedor | 🎯 Constante evolução</h3>
 
----
-
 ## 🚀 Sobre mim
 - 🎓 Graduando em **Ciências da Computação**  
 - 👨‍💻 Foco em **desenvolvimento FullStack**  
@@ -12,15 +10,11 @@
 
 📎 Portfólio: [igor-carvalho-portfolio.vercel.app](https://igor-carvalho-portfolio.vercel.app/)  
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-c17&show_icons=true&theme=radical&locale=pt-br&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-c17&layout=donut&theme=radical&locale=pt-br&cache_seconds=1800"/>
 </p>
-
----
 
 ## 🛠️ Tecnologias
 <p align="center">
@@ -43,14 +37,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
 ## 📈 Atividade recente
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igor-c17&bg_color=141321&color=d83a7c&line=d83a7c&point=dbbf42&area=true&hide_border=true"/>
 </p>
-
----
 
 ## 📬 Contato
 <p align="center">
@@ -58,6 +48,4 @@
   <a href="https://www.linkedin.com/in/igorcarvalhofs/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:igordankesttrout7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
----
 <p align="center">Feito com ❤️ por Igor Carvalho</p>
