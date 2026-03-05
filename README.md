@@ -8,7 +8,7 @@
 - 🛍 Atualmente dev front-end solo na loja [Aimê](https://aimê.online)  
 - 🌱 Sempre aprendendo e buscando excelência em **performance, UX e resultados reais**  
 
-📎 Portfólio: [igor-carvalho-portfolio.vercel.app]([https://igor-carvalho-portfolio.vercel.app/](https://igor-carvalho-portf-git-8802de-igor-carvalhos-projects-467c112d.vercel.app/))  
+📎 Portfólio: https://igor-carvalho-portf-git-8802de-igor-carvalhos-projects-467c112d.vercel.app/  
 
 ## 📊 GitHub Stats
 <p align="center">
